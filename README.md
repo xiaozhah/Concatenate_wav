@@ -13,9 +13,11 @@ wav文件
 
 ## 程序用法
 此C++程序要求提供三个选项，分别是：
-* `-a audio_dir`：片段音频所在的文件夹路径
+* `-a audio_dir`：片段音频所在的文件夹路径（好多好多wav文件）
 * `-f frame_file_path`：待输入的frm文件的路径
 * `-o synthesized_audio_file_path`：待输出文件合成语音的路径
 
-##说明
+## 说明
 文件示例格式见demo文件夹
+
+目前只支持16KHz的采样率语音

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Concatenate(int):Concatenate.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pUnitNo[0]">
+            </PersistentString>
+            <PersistentString
+               value = "pFrmNo[0]">
+            </PersistentString>
+            <PersistentString
+               value = "g_pSynSenName[2]">
+            </PersistentString>
+            <PersistentString
+               value = "pSenNo[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
